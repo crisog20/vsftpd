@@ -5,4 +5,4 @@ proyecto de vsftpd
 ## [3.-Esquema de red](https://github.com/crisog20/vsftpd/blob/main/3.-Esquema%20de%20red.md)
 ## [4.-Instalación](https://github.com/crisog20/vsftpd/blob/main/4.-Instalacion.md)
 ## [5.- Casos prácticos](https://github.com/crisog20/vsftpd/blob/main/5.-%20Casos%20pr%C3%A1cticos.md)
-## [6.- Referencias]
+## [6.- Referencias](https://github.com/crisog20/vsftpd/blob/main/6.-%20Referencias.md)
